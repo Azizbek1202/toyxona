@@ -1,0 +1,14 @@
+.contact{
+    padding-top: 80px;
+    padding-bottom: 75px;
+    display: flex;
+    justify-content: center;
+    .circle{
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        border: 2px solid #A29B9B;
+        margin-left: 105px;
+        margin-right: 95px;
+    }
+}

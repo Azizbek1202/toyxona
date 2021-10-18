@@ -1,0 +1,32 @@
+.services{
+    background-color: #FAF5F1;   
+    padding-top: 70px;
+        padding-bottom: 110px;
+    .inputs{
+        font-family: 'Montserrat';
+        display: flex;
+        justify-content: center;
+        
+        .input1{
+            width: 378px;
+            margin-right: 87px;
+        }
+        .input2{
+            width: 293px;
+        }
+        
+    }
+    .p{
+       p{
+           font-family: 'Trebuchet MS';
+        font-size: 25px;
+        color: #D4772C;
+       }
+       margin-left: 582px;
+       margin-top: 48px;
+    }
+    .map{
+        display: flex;
+    }
+    
+}

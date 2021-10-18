@@ -1,0 +1,45 @@
+.palaceofceremonies{
+    padding-top: 105px;
+    padding-bottom: 105px;
+    padding-left: 120px;
+    background-color: #FAF5F1;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 150px;
+    .about{
+        img{
+            margin-left: 200px;
+            margin-top: 20px;
+            width: 35px;
+            height: 35px;
+        }
+        h5{
+            font-size: 30px;
+            padding-right: 100px;
+            color: #7E8B9B;
+            margin-left: 100px;
+        }
+        p{
+            color: #7E8B9B;
+        }
+        .map{
+            display: flex;
+            background-color: white;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            margin-left: 165px;
+            margin-top: 50px;
+            border-radius: 25px;
+            cursor: pointer;
+            img{
+                width: 17px;
+                height: 17px;
+                margin-top: 10px;
+                margin-right: 10px;
+                margin-left: 0;
+            }
+        }
+        
+    }
+}
