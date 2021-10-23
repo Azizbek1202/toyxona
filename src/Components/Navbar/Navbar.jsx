@@ -6,9 +6,9 @@ const Navbar = () => {
     return (
         <div className="container-fluid">
             <div className="navbar">
-               <a>Services</a>
-               <a>Name Company</a>
-               <a>Portfolio</a>
+               <a href="kun.uz">Services</a>
+               <a href="kun.uz">Name Company</a>
+               <a href="kun.uz">Portfolio</a>
             </div>
             <div className="img">
                 <img src={img} alt="" />
