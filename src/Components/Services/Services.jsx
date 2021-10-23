@@ -2,7 +2,7 @@ import React from 'react'
 import './styleServices.scss'
 import search from '../../Assets/icons/Search.svg'
 import location from '../../Assets/icons/Location.svg'
-import {InputGroup, Input,InputGroupAddon, InputGroupText, ButtonGroup, Button } from 'reactstrap'
+import {InputGroup, Input,InputGroupAddon, InputGroupText } from 'reactstrap'
 import { data, data1, data2 } from '../../mock/mockdata'
 
 const Services = () => {
